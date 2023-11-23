@@ -1,0 +1,16 @@
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\bin\Debug\BSBD.Cursv2.exe.config
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\bin\Debug\BSBD.Cursv2.exe
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\bin\Debug\BSBD.Cursv2.pdb
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.csproj.AssemblyReference.cache
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.Properties.Resources.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.csproj.GenerateResource.cache
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.csproj.CoreCompileInputs.cache
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.exe
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.pdb
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormMain.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormPlayer.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormBet.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormGame.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormCroupier.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormGameList.resources
+C:\Users\ruslan\source\repos\BSBD.Cursv2\BSBD.Cursv2\obj\Debug\BSBD.Cursv2.FormAuth.resources
