@@ -56,7 +56,7 @@ namespace BSBD.Cursv2
         private void Stop(object sender, MouseEventArgs e)
         {
             if (role == "Adm" | role=="Crp")
-                MessageBox.Show("Смотреть но не трогать");
+                MessageBox.Show("Отказано");
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using System;
+﻿ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -55,7 +55,7 @@ namespace BSBD.Cursv2
         private void Stop(object sender, MouseEventArgs e)
         {
             if (role == "Crp")
-                MessageBox.Show("Смотреть но не трогать");
+                MessageBox.Show("Отказано");
         }
     }
 }

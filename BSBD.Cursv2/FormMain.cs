@@ -24,11 +24,11 @@ namespace BSBD.Cursv2
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
-            e.Cancel = MessageBox.Show("Точно? Точно преточно?", "Опа", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes;
+            e.Cancel = MessageBox.Show("Выйти?", "???", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes;
         }
         private void оПрограммеToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            MessageBox.Show("Привет, я бедный Молдавский хакер, давай ты сам отправишь мне деньги и удалишь какие нибудь важные файлы", "(C) ТУСУР, БИС, 7411, 2023, Абдуллин Р.Н", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("Курсовая работа", "(C) ТУСУР, БИС, 7411, 2023, Абдуллин Р.Н", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
 

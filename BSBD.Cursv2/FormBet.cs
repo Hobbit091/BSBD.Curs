@@ -55,7 +55,7 @@ namespace BSBD.Cursv2
         private void Stop(object sender, DataGridViewCellEventArgs e)
         {
             if (role == "Adm")
-                MessageBox.Show("Смотреть но не трогать");
+                MessageBox.Show("Отказано");
         }
     }
 }
